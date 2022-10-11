@@ -16,7 +16,7 @@ fun main() {
     println(name)
     println(SurName)
 }
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
     println("Hello World")
     print("Melike")
     print("Ay")
@@ -29,3 +29,4 @@ fun main(args: Array<String>) {
  * Dökümantasyon yorum satırı
  */
 // Todo (Burası daha sonra düzeltilecek)
+*/
