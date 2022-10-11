@@ -2,7 +2,7 @@ package `1 Getting Started`
 
 import kotlin.math.pow
 
-fun main() {
+/*fun main() {
     // value inmutable
     // variable mutable
     val name: String = "Gökhan"
@@ -15,8 +15,8 @@ fun main() {
  //   name = "Ahmet"
     println(name)
     println(SurName)
-}
-/*fun main(args: Array<String>) {
+}*/
+fun main(args: Array<String>) {
     println("Hello World")
     print("Melike")
     print("Ay")
@@ -29,4 +29,3 @@ fun main() {
  * Dökümantasyon yorum satırı
  */
 // Todo (Burası daha sonra düzeltilecek)
-*/
